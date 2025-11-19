@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Cru203/Cru203/raw/main/Neon%20Starburst%20_Cru203_%20Design.png" alt="Cru203 Banner" />
-</p>
-
-
 # Hi, I'm Mahasa 👋
 
 I’m a Cybersecurity and Cloud Engineer with a strong foundation in military operations, enterprise IT, and modern cloud architecture. I build scalable, secure, and automated solutions using Azure, Linux, and Infrastructure as Code. My focus is developing real-world, production-grade cloud projects to accelerate my transition into high-level cloud and DevSecOps roles.
