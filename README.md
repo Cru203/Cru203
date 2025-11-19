@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Cru203/Cru203/main/Neon%20Starburst%20_Cru203_Design.png" alt="Cru203 Banner" />
+  <img src="https://github.com/Cru203/Cru203/raw/main/Neon%20Starburst%20_Cru203_%20Design.png" alt="Cru203 Banner" />
 </p>
+
 
 # Hi, I'm Mahasa 👋
 
