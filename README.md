@@ -30,7 +30,6 @@ I’m a Cybersecurity and Cloud Engineer with a strong foundation in military op
 - Build a full portfolio of **Azure and AWS cloud architecture projects**
 - Master **Infrastructure as Code** using Bicep, Terraform, and GitHub Actions
 - Transition into a high-earning Cloud Security / DevSecOps / Solutions Architect role  
-- Reach a salary range of **$200K–$250K**
 - Become highly fluent with GitHub, cloud automation, and professional workflows
 
 ---
