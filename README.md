@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Neon Starburst_Cru203_Design.png" />
+  <img src="Neon_Starburst_Cru203_Design.png" />
 </p>
 
 # Hi, I'm Mahasa 👋
