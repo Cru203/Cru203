@@ -1,4 +1,6 @@
-https://chatgpt.com/s/m_691d23fb51688191ba9a4a11c41e09d3
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cru203/Cru203/main/Neon%20Starburst%20_Cru203_Design.png" alt="Cru203 Banner" />
+</p>
 
 # Hi, I'm Mahasa 👋
 
