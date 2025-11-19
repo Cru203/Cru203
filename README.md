@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Neon_Starburst_Cru203_Design.png" />
-</p>
+git mv "Neon Starburst Cru203 Design.png" Neon_Starburst_Cru203_Design.png git commit -m "Rename image to remove spaces" git push
 
 # Hi, I'm Mahasa 👋
 
