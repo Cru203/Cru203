@@ -1,6 +1,6 @@
 # Hi, I'm Mahasa 👋
 
-I’m a an aspiring Cloud Security Engineer with a strong foundation in military operations, enterprise IT, and modern cloud architecture. I build scalable, secure, and automated solutions using Azure, Linux, and Infrastructure as Code. My focus is developing real-world, production-grade cloud projects to accelerate my transition into high-level cloud and DevSecOps roles.
+I’m a an aspiring Cloud Security Engineer with a strong foundation in Priviliged Access Management, Enterprise IT, and modern cloud architecture. I build scalable, secure, and automated solutions using Azure, Linux, and Infrastructure as Code. My focus is developing real-world, production-grade cloud projects to accelerate my transition into high-level cloud and DevSecOps roles.
 
 ---
 
